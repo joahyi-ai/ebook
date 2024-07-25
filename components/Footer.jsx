@@ -35,7 +35,7 @@ export default function Footer() {
             className="font-semibold leading-6 text-center text-blue-600 cursor-pointer hover:text-neutral-700"
             style={{ textDecoration: "none" }}
           >
-            IGTools
+            ExtensionFox
           </a>
           , Inc. All rights reserved.
         </p>

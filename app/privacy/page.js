@@ -13,10 +13,10 @@ export default function Example() {
 
           <div className="mt-16 max-w-2xl">
             <p className="mt-6">
-              This Privacy Policy describes how IGTools and its affiliates
-              (&quot;IGTools,&quot; &quot;we,&quot; &quot;our&quot; or
+              This Privacy Policy describes how ExtensionsFox and its affiliates
+              (&quot;ExtensionsFox,&quot; &quot;we,&quot; &quot;our&quot; or
               &quot;us&quot;) collect, use, and share information in connection
-              with your use of our websites (including igtools.store ),
+              with your use of our websites (including ExtensionsFox.store ),
               services, and applications (collectively, the
               &quot;Services&quot;). This Privacy Policy (the &quot;Privacy
               Policy&quot;) does not apply to information our customers may
@@ -33,9 +33,9 @@ export default function Example() {
             <p className="mt-6">
               We recommend reading this Privacy Policy to ensure you are fully
               informed. If you have any questions about this Regarding the
-              privacy policy or IGTools&apos;s data collection, use, and
+              privacy policy or ExtensionsFox&apos;s data collection, use, and
               disclosure practices, please get in touch with us at
-              support@igtools.store.
+              support@ExtensionsFox.store.
             </p>
           </div>
 
@@ -304,7 +304,7 @@ export default function Example() {
               5. SECURITY
             </h2>
             <p className="mt-6">
-              IGTools is committed to protecting your information. To do so, we
+              ExtensionsFox is committed to protecting your information. To do so, we
               employ a variety of security technologies and measures designed to
               protect information from unauthorized access, use, or disclosure.
               The measures we use are designed to provide a level of security
@@ -339,7 +339,7 @@ export default function Example() {
             <p className="mt-6">
               If you are a registered user, you may access certain information
               associated with your Account by logging into our Services or
-              emailing support@igtools.store. If you terminate your Account, any
+              emailing support@ExtensionsFox.store. If you terminate your Account, any
               public activity on your Account prior to deletion may remain
               stored on our servers and may remain accessible to the public.
             </p>
@@ -351,12 +351,12 @@ export default function Example() {
               in the ordinary course of business for disaster recovery purposes.
               Your ability to access and correct your information may be
               temporarily limited where access and correction could: inhibit
-              IGTools&apos;s ability to comply with a legal obligation; inhibit
-              IGTools&apos;s ability to investigate, make or defend legal
+              ExtensionsFox&apos;s ability to comply with a legal obligation; inhibit
+              ExtensionsFox&apos;s ability to investigate, make or defend legal
               claims; result in disclosure of personal information about a third
               party; or result in breach of a contract or disclosure of trade
               secrets or other proprietary business information belonging to
-              IGTools or a third party.
+              ExtensionsFox or a third party.
             </p>
           </div>
           <div className="mt-10 max-w-2xl">
@@ -372,21 +372,21 @@ export default function Example() {
               <li>
                 If you wish to access, correct, update, or request deletion of
                 your personal information, you can do so at any time by emailing
-                support@igtools.store.
+                support@ExtensionsFox.store.
               </li>
               <li>
                 In addition, you can object to the processing of your personal
                 information, ask us to restrict the processing of your personal
                 information, or request portability of your personal
                 information. Again, you can exercise these rights by emailing
-                support@igtools.store.
+                support@ExtensionsFox.store.
               </li>
               <li>
                 You have the right to opt-out of marketing communications we
                 send you at any time. You can exercise this right by clicking on
                 the &quot;unsubscribe&quot; or &quot;opt-out&quot; link in the
                 marketing emails we send you. To opt-out of other forms of
-                marketing, please contact us by emailing support@igtools.store.
+                marketing, please contact us by emailing support@ExtensionsFox.store.
               </li>
               <li>
                 Similarly, if we have collected and process your personal
@@ -451,11 +451,11 @@ export default function Example() {
               10. CHILDREN&apos;S PRIVACY
             </h2>
             <p className="mt-6">
-              IGTools does not knowingly collect information from children under
+              ExtensionsFox does not knowingly collect information from children under
               the age of 13, and children under 13 are prohibited from using our
               Services. If you learn that a child has provided us with personal
               information in violation of this Privacy Policy, you can alert us
-              at support@igtools.store.
+              at support@ExtensionsFox.store.
             </p>
           </div>
           <div className="mt-10 max-w-2xl">
@@ -476,7 +476,7 @@ export default function Example() {
               12. INTERNATIONAL DATA TRANSFERS
             </h2>
             <p className="mt-6">
-              IGTools is a global business operating in United States. We may
+              ExtensionsFox is a global business operating in United States. We may
               transfer personal information to countries other than the country
               in which the data was originally collected. These countries may
               not have the same data protection laws as the country in which you
@@ -491,16 +491,16 @@ export default function Example() {
             </h2>
             <p className="mt-6">
               If you have any questions or concerns about this Privacy Policy,
-              please feel free to email us at support@igtools.store.
+              please feel free to email us at support@ExtensionsFox.store.
             </p>
             <p className="mt-6">
               If you have customers in the EU or need to be GDPR compliant, you
               may additionally request to sign our Data Protection Agreement
-              (DPA). Please email us at support@igtools.store for a copy of the
+              (DPA). Please email us at support@ExtensionsFox.store for a copy of the
               DPA.
             </p>
             <p className="mt-6">
-              The data controller of your personal information is IGTools.
+              The data controller of your personal information is ExtensionsFox.
             </p>
           </div>
         </div>

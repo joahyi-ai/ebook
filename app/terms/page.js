@@ -25,12 +25,12 @@ export default function Example() {
             </h2>
             <p className="mt-6">
               You may not claim intellectual or exclusive ownership rights to
-              any of our products. All products are property of igtools.store .
-              They are provided “as is” without warranty of any kind, expressed
-              or implied. We shall not be liable for any damages, including but
-              not limited to, direct, indirect, special, incidental or
-              consequential damages or losses that occur out of the use or
-              inability to use our products.
+              any of our products. All products are property of
+              extensionsfox.store . They are provided “as is” without warranty
+              of any kind, expressed or implied. We shall not be liable for any
+              damages, including but not limited to, direct, indirect, special,
+              incidental or consequential damages or losses that occur out of
+              the use or inability to use our products.
             </p>
           </div>
           <div className="mt-10 max-w-2xl">
@@ -77,10 +77,11 @@ export default function Example() {
               5. Transactional Emails
             </h2>
             <p className="mt-6">
-              IGTools may on occasion send you email notifications related to
-              your service . These transactional emails may include notification
-              of changes to our terms and conditions, license expiration notices
-              and other transactional emails related to your purchase.
+              ExtensionsFox may on occasion send you email notifications related
+              to your service . These transactional emails may include
+              notification of changes to our terms and conditions, license
+              expiration notices and other transactional emails related to your
+              purchase.
             </p>
           </div>
           <div className="mt-10 max-w-2xl">
@@ -88,11 +89,11 @@ export default function Example() {
               6. Price Changes
             </h2>
             <p className="mt-6">
-              IGTools reserves the right to change the price of any service at
-              any time. Any price change will be reflected on igtools.store. In
-              the event that any price is lowered, you will not be entitled to a
-              refund for the difference in the price from the time you purchased
-              the service.
+              ExtensionsFox reserves the right to change the price of any
+              service at any time. Any price change will be reflected on
+              extensionsfox.store. In the event that any price is lowered, you
+              will not be entitled to a refund for the difference in the price
+              from the time you purchased the service.
             </p>
           </div>
           <div className="mt-10 max-w-2xl">
